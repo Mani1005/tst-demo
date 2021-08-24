@@ -11,6 +11,8 @@ public class sample{
     System.out.println("Hello Seven");
     System.out.println("Hello Eight");
     System.out.println("Hello Nine");
+     System.out.println("Hello Ten");
+    
     
     
     
