@@ -10,6 +10,8 @@ public class sample{
     System.out.println("Hello Six");
     System.out.println("Hello Seven");
     System.out.println("Hello Eight");
+    System.out.println("Hello Nine");
+    
     
     
   }
